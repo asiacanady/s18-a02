@@ -1,0 +1,9 @@
+#1. The the most common origin for accidents is London Heathrow
+
+#2. The operator with the most accidents is Aeroflot with 31 accidents
+
+#3. N/A
+
+#4. Turkish Airlines, 346 Fatalities
+
+#5. Aeroflot with 2333 fatalities
